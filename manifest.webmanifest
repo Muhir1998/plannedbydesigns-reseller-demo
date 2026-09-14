@@ -1,0 +1,9 @@
+{
+  "name": "PlannedByDesigns Reseller Business OS",
+  "short_name": "Reseller OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#17233b",
+  "description": "Local-first reseller business management system."
+}
